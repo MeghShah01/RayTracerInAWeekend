@@ -22,26 +22,40 @@ planned improvements.
 - Volumetric rendering
 - SIMD optimization 
 
-### How to run application:
-***
-1. Clone repository
-Open your terminal and clone this repository to the desired folder
-by running this command:
-> git clone https://github.com/MeghShah01/RayTracerInAWeekend.git
+## How to Run the Application
 
-2. Compile the project
-Open ***main.java*** file with an IDE or
-compile with ***javac***:
+1. **Clone the repository**
 
-For Bash:
-> javac $(find . -name "*.java")
+   Open your terminal in the desired directory and run:
 
-For Windows:
-> dir /s /B *.java > sources.txt
-> javac @sources.txt
+   ```bash
+   git clone https://github.com/MeghShah01/RayTracerInAWeekend.git
+   ```
 
-3. Run the Application
-> java Main
+2. **Compile the project**
+
+   You can open `main.java` in your preferred IDE or compile the project using `javac`.
+
+   **Linux / macOS (Bash):**
+
+   ```bash
+   javac $(find . -name "*.java")
+   ```
+
+   **Windows:**
+
+   ```cmd
+   dir /s /B *.java > sources.txt
+   javac @sources.txt
+   ```
+
+3. **Run the application**
+
+   Run the main class using your IDE or terminal:
+
+   ```bash
+   java Main
+   ```
 
 
 

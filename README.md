@@ -1,7 +1,6 @@
 # Custom Ray Tracer In Java
 
 ***
-
 This projects fallows Dr. Peter Shirley's book *Ray Tracing in One Weekend*. 
 It has been converted into Java code and in future releases there are a bunch
 of custom features planed, so stay tuned!

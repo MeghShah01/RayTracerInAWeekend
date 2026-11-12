@@ -6,7 +6,7 @@ This project is a Java implementation inspired by Dr. Peter Shirley's
 introduced in the book, alongside additional features and 
 planned improvements.
 
-### Fetures:
+### Features:
 ***
 1. Anti-aliasing
 2. Lambertian Reflection

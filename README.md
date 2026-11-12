@@ -34,7 +34,7 @@ Open ***main.java*** file with an IDE or
 compile with ***javac***:
 
 For Bash:
-> javac $(find . -name "* .java")
+> javac $(find . -name "*.java")
 
 For Windows:
 > dir /s /B *.java > sources.txt
